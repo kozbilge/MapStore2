@@ -57,9 +57,9 @@ Dosyalarınızı kopyaladıktan sonra MapStore'unuza aşağıdaki bağlantıdan 
 Varsayılan admin kullanıcı adınız: admin
 Varsayılan admin şifreniz: admin
 
-Documentation
+Dokümantasyon
 -------------
-You can find more documentation about how to build, install or develop with MapStore on the [documentation site](https://mapstore.readthedocs.io/en/latest/).
+Şu an için MapStore'a Türkçe dokümantasyon desteği verememekteyiz. Resmi İngilizce dokümanlar için bağlantıyı inceleyiniz [documentation site](https://mapstore.readthedocs.io/en/latest/).
 
 ### Topluluk Desteği
 
