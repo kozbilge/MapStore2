@@ -9,6 +9,9 @@ MapStore
 ========
 MapStore web haritalar yapabilmeniz için standart haritalama araçları(örn:[OpenLayers](http://openlayers.org/) and [Leaflet](http://leafletjs.com/)) kullanılarak oluşturulmuş bir frameworktür.
 
+[Resmi MapStore Deposu](https://github.com/geosolutions-it/MapStore2) için bağlantıya tıklayınız.
+Bu sayfa resmi deponun kopyası olup Türkçe destek amacıyla üretilmiştir.
+
 MapStore çeşitli örnek uygulamalara sahiptir:
  * MapViewer basit bir harita sergileme uygulamasıdır. Daha önce başka servislerle oluşturduğunuz haritaları sergilemenizi sağlar (Geoserver ya da GeoSore gibi servisler).
  * MapPublisher ise haritalari oluşturmanıza, kayıt etmenize ve paylaşmanıza olana sağlayan bir araçtır. Tıpkı OpenStreetMap, Google, MapQuest gibi karmaşık harita servisleri oluşturmanıza ve kurumunuzda kullanmanıza imkan tanır.
